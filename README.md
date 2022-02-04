@@ -1,8 +1,8 @@
 <h1 align="center">Olá me chamo André Moreira</h1>
 <div align="center">
-  <a href="https://github.com/andre604">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andre604&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre604&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/AndreMoreira00">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreMoreira00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMoreira00&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block", align="center"><br>
   <img align="center" alt="André-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
