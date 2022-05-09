@@ -9,7 +9,7 @@
   <img align="center" alt="André-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="André-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="André-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="André-Django" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg">
+  <img align="center" alt="André-Django" height="40" width="50" src="https://blog.education-ecosystem.com/wp-content/uploads/2018/12/4-1_hlpjj3.png">
 </div>
 <br>
 <div align="center"> 
