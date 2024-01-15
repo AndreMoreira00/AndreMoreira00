@@ -6,7 +6,7 @@
 <div align="center">  
   <a href="https://github.com/AndreMoreira00">
     <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AndreMoreira00&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=2874A6&text_color=2874A6&bg_color=0d1117" alt="André Moreira github stats" />
-    <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pinkovay&layout=compact&hide_border=true&title_color=ffffff&text_color=2874A6&bg_color=0d1117" />
+    <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndreMoreira00&layout=compact&hide_border=true&title_color=ffffff&text_color=2874A6&bg_color=0d1117" />
   </a>
 </div>
 <div style="display: inline_block", align="center"><br>
