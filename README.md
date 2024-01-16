@@ -14,10 +14,18 @@
   <img align="center" alt="André-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="André-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="André-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="André-Jupyter" height="40" width="50" src="https://github.com/AndreMoreira00/AndreMoreira00/assets/59531553/e02ff843-cfe3-4917-ac63-e4eb2c4d1754">
 </div>
 <br>
 <div align="center"> 
   <a href=https://www.instagram.com/catatal_55/ target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:andremoreira102030@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href=https://www.linkedin.com/in/andré-moreira-8a40251a0 target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+<br>
+</div>
+<div align="center">
+<br><p align="centre"><b>Contador de visitas</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AndreMoreira00}/count.svg" /></p> 
+<br>
 </div>
