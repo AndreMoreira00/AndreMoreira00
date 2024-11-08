@@ -14,7 +14,7 @@
   <img align="center" alt="André-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="André-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="André-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="André-Jupyter" height="40" width="50" src="https://github.com/AndreMoreira00/AndreMoreira00/assets/59531553/e02ff843-cfe3-4917-ac63-e4eb2c4d1754">
+  <img align="center" alt="André-Jupyter" height="40" width="50" src="https://styles.redditmedia.com/t5_3alkk/styles/communityIcon_khftc7a8x0e31.png">
 </div>
 <br>
 <div align="center"> 
