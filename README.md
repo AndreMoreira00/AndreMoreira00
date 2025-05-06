@@ -1,7 +1,6 @@
 <h1 align="center">André Moreira</h1>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AndreMoreira00&bg_color=000000&color=4981b6&line=000000&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![Status](./profile-3d-contrib/profile-night-green.svg)
 
 <div align="center">  
   <a href="https://github.com/AndreMoreira00">
